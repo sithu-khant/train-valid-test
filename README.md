@@ -6,8 +6,10 @@ this, [see here](https://iukt.medium.com/why-how-we-split-train-valid-and-test-f
 ![Photo by Pietro Jeng on Unsplash](images/cover-img.jpg)
 
 During coding your machine learning project or learning machine learning, did you confuse about the data to split? I
-don’t know about you, but I did like that. Not only train and test data set but also valid data set. Why do we split like that
-there and how to split? This is [a good blog](https://www.fast.ai/posts/2017-11-13-validation-sets.html) by Rachel Thomas from Fast.ai and you should read that blog too. His blog
+don’t know about you, but I did like that. Not only train and test data set but also valid data set. Why do we split
+like that
+there and how to split? This is [a good blog](https://www.fast.ai/posts/2017-11-13-validation-sets.html) by Rachel
+Thomas from Fast.ai and you should read that blog too. His blog
 and mine will give you the same concepts and workflow, but with a different points of view.
 
 Before talking about the train, validate and test. Let’s talk about machine learning. As you know machine learning
@@ -15,12 +17,14 @@ models/algorithms depend on the data. The more data, the better it works. Not ju
 the right data. Even though you have plenty of data with not the right features/values, your model cannot work well. So,
 this is where the train, valid, and test data set come in. See the short brief definition of these three:
 
-1. Training set — to train your model on this data set 
+1. Training set — to train your model on this data set
 2. Validation set — to test your model on this before testing the data set, to make hyperparameter tuning on these
-3. Testing set — to test your model on this; after testing and tuning on the validation set, to know how well your model in real-time
+3. Testing set — to test your model on this; after testing and tuning on the validation set, to know how well your model
+   in real-time
 
-If you want to read full blog about this, read it on my medium account under handle
-of [Artificialis](https://medium.com/artificialis) publication.
+If you want to read full blog about
+this, [read it](https://iukt.medium.com/why-how-we-split-train-valid-and-test-fb4d6746ede) on my medium account under
+handle of [Artificialis](https://medium.com/artificialis) publication.
 
 ## Requirements
 
