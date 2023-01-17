@@ -32,4 +32,4 @@ of [Artificialis](https://medium.com/artificialis) publication.
 
 If you love to read my blogs, you can follow me on [Medium](https://iukt.medium.com/)
 
-If you have any problem or want to contact with me, [email me](mailto:iukt@tuta.io)
+If you have any problem or want to contact me, [email me](mailto:iukt@tuta.io)
