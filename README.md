@@ -28,6 +28,6 @@ of [Artificialis](https://medium.com/artificialis) publication.
 * NumPy
 * Scikit-Learn
 
-If you love to read my blogs, you can follow me on [Medium](https://iukt.medium.com/)
+If you like to read my blogs, you can follow me on [Medium](https://iukt.medium.com/)
 
 If you have any problem or want to contact me, [email me](mailto:iukt@tuta.io)
