@@ -1,7 +1,7 @@
 # Train Valid Test
 
 Codes for splitting training, validation and testing dataset. To read the full blog post about
-this, [see here](https://iukt.medium.com/why-how-we-split-train-valid-and-test-fb4d6746ede)
+this, [see here](https://medium.com/artificialis/why-how-we-split-train-valid-and-test-fb4d6746ede)
 
 ![Photo by Pietro Jeng on Unsplash](images/cover-img.jpg)
 
@@ -23,7 +23,7 @@ this is where the train, valid, and test data set come in. See the short brief d
    in real-time
 
 If you want to read full blog about
-this, [read it](https://iukt.medium.com/why-how-we-split-train-valid-and-test-fb4d6746ede) on my medium account under
+this, [read it](https://medium.com/artificialis/why-how-we-split-train-valid-and-test-fb4d6746ede) on my medium account under
 handle of [Artificialis](https://medium.com/artificialis) publication.
 
 ## Requirements
@@ -32,6 +32,6 @@ handle of [Artificialis](https://medium.com/artificialis) publication.
 * NumPy
 * Scikit-Learn
 
-If you like to read my blogs, you can follow me on [Medium](https://iukt.medium.com/)
+If you like to read my blogs, you can follow me on [Medium](https://medium.com/@sithukhantai)
 
-If you have any problem or want to contact me, [email me](mailto:iukt@tuta.io)
+If you have any problem or want to contact me, [email me](mailto:sithukhantai@gmail.com)
